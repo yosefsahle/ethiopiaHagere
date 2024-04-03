@@ -1,4 +1,3 @@
-
 import 'package:ethiopia/mapScreens/gonderMap.dart';
 
 import 'package:ethiopia/screens/developers_page.dart';
@@ -76,7 +75,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   right: 120.0,
                 ),
                 child: Text(
-                  'Know Ethiopia and Travel !!!',
+                  'Know Ethiopia and Travel !',
                   style: TextStyle(
                     fontSize: 30.0,
                     fontWeight: FontWeight.bold,
